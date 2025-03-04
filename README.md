@@ -1,7 +1,7 @@
 	
 - 👋🏼👩🏼‍💻 Hi, I’m @moggisen
 - 🎨 I love creating clean and easy-to-use designs
-- 📚 Currently learning more about UX/UI and accessibility
+- 📚 Currently learning more about Backend
 - 😍 Most passionate about working with React 
 - 🤝🏼 Open for frontend collaborations and cool projects
 - 📫 Reach me via mail
